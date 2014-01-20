@@ -4,7 +4,6 @@ INDEX VERSION 1.126+C:\Users\Migsch\Documents\GitHub\DoG\.metadata\.plugins\org.
 4050959524.index
 3291799386.index
 1962638457.index
-3721521473.index
 848959954.index
 2479909925.index
 2375370348.index
